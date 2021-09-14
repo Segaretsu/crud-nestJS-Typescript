@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.1930" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-09-02T01:50:14" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Prestamos biblioteca test" timestamp="2021-09-02T01:50:14" tests="6" file="C:\Users\Sebastian\Desktop\Ceiba prueba técnica\ceiba-node-js\test\prestamo.spec.ts" time="0.1930" failures="0">
+    <testcase name="Prestamos biblioteca test prestamo Libro Usuario Afiliado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion" time="0.1020" classname="prestamo Libro Usuario Afiliado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion">
+    </testcase>
+    <testcase name="Prestamos biblioteca test prestamo Libro Usuario Empleado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion" time="0.0170" classname="prestamo Libro Usuario Empleado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion">
+    </testcase>
+    <testcase name="Prestamos biblioteca test prestamo Libro Usuario Invitado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion" time="0.0190" classname="prestamo Libro Usuario Invitado Deberia Almacenar Correctamente Y Calcular Fecha De Devolucion">
+    </testcase>
+    <testcase name="Prestamos biblioteca test usuario Invitado Tratando De Prestar Un Segundo Libro Deberia Retornar Excepcion" time="0.0210" classname="usuario Invitado Tratando De Prestar Un Segundo Libro Deberia Retornar Excepcion">
+    </testcase>
+    <testcase name="Prestamos biblioteca test usuario Diferente A Invitado Tratando De Prestar Un Segundo Libro Deberia Prestarlo Correctamente" time="0.0260" classname="usuario Diferente A Invitado Tratando De Prestar Un Segundo Libro Deberia Prestarlo Correctamente">
+    </testcase>
+    <testcase name="Prestamos biblioteca test prestamo Con Tipo De Usuario No Permitido Deberia Retornar Excepcion" time="0.0080" classname="prestamo Con Tipo De Usuario No Permitido Deberia Retornar Excepcion">
+    </testcase>
+  </testsuite>
+</testsuites>
